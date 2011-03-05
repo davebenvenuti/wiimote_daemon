@@ -1,0 +1,1 @@
+I was sick of batteries constantly dying in my wiimote because I'd never remember to turn it off when using wminput, so I wrote this simple wrapper to give it an X second sleep timer
